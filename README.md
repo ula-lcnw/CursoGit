@@ -7,3 +7,5 @@ Los asistentes son:
 - Alejandro Mujica
 - Andres Farias
 - Kevin Marquez
+
+-Jessica Barrios
