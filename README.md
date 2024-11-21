@@ -8,5 +8,9 @@ Los asistentes son:
 - Andres Farias
 - Kevin Marquez
 - María Vera
+- Frank Zerpa
 - Andrea Miranda
 - Ivan Maldonado
+- Jessica Barrios
+- Manuel Maldonado
+
