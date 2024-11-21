@@ -12,4 +12,5 @@ Los asistentes son:
 - Ivan Maldonado
 - Jessica Barrios
 - Manuel Maldonado
+- Jesus Salas
 - Juan Hernández
