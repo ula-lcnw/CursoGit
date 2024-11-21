@@ -13,3 +13,5 @@ Los asistentes son:
 - Jessica Barrios
 - Manuel Maldonado
 - Jesus Salas
+- Juan Cardillo
+- Gerardo Rosetti
