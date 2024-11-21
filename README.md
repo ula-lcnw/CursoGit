@@ -9,3 +9,4 @@ Los asistentes son:
 - Kevin Marquez
 - Andrea Miranda
 - Ivan Maldonado
+- Jessica Barrios
