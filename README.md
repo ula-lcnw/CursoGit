@@ -7,6 +7,7 @@ Los asistentes son:
 - Alejandro Mujica
 - Andres Farias
 - Kevin Marquez
+- Frank Zerpa
 - Andrea Miranda
 - Ivan Maldonado
 - Jessica Barrios
