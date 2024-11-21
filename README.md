@@ -11,3 +11,5 @@ Los asistentes son:
 - Andrea Miranda
 - Ivan Maldonado
 - Jessica Barrios
+- Manuel Maldonado
+
