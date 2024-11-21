@@ -7,10 +7,14 @@ Los asistentes son:
 - Alejandro Mujica
 - Andres Farias
 - Kevin Marquez
+- María Vera
 - Frank Zerpa
 - Andrea Miranda
 - Ivan Maldonado
 - Jessica Barrios
 - Manuel Maldonado
 - Jesus Salas
+- Juan Cardillo
+- Gerardo Rosetti
+
 - Juan Hernández
