@@ -8,3 +8,5 @@ Los asistentes son:
 - Andres Farias
 - Kevin Marquez
 - Frank Zerpa
+- Andrea Miranda
+- Ivan Maldonado
