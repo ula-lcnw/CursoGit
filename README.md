@@ -16,3 +16,5 @@ Los asistentes son:
 - Jesus Salas
 - Juan Cardillo
 - Gerardo Rosetti
+
+- Juan Hernández
